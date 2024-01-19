@@ -1,16 +1,4 @@
-# real_only
+# Homey
+## : 1인 여성 가구를 위한 안전한 집 찾기 어플
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="435" alt="스크린샷 2024-01-19 오후 11 43 19" src="https://github.com/nabinyang/Homey/assets/56778299/debc25b3-228b-4464-a08e-dc719b22e27d">
