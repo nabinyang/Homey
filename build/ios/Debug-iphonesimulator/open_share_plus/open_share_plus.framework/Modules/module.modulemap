@@ -1,0 +1,11 @@
+framework module open_share_plus {
+  umbrella header "open_share_plus-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module open_share_plus.Swift {
+  header "open_share_plus-Swift.h"
+  requires objc
+}
